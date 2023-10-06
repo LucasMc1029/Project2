@@ -1,0 +1,10 @@
+table {
+    border:red
+}
+p.dashed {
+    border-style:dashed;
+    border-width:thick;
+}
+#div.a {
+    text-align:center;
+}
